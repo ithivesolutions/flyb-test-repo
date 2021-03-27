@@ -1,0 +1,48 @@
+{
+	"candidates": [
+		{
+			"jobid": 11200500,
+			"firstname": "Cindy",
+			"lastname": "Sawyers",
+			"email": "",
+			"available_from": "",
+			"state": "WA",
+			"desired_salary": "105000",
+			"currently_employed": "Yes",
+			"current_salary": "95000"
+		},
+		{
+			"jobid": 11200501,
+			"firstname": "Lakita",
+			"lastname": "Marrero",
+			"email": "",
+			"available_from": "",
+			"state": "VIC",
+			"desired_salary": "",
+			"currently_employed": "No",
+			"current_salary": ""
+		},
+		{
+			"jobid": 11200502,
+			"firstname": "richard",
+			"lastname": "hendricks",
+			"email": "",
+			"available_from": "",
+			"state": "NSW",
+			"desired_salary": "",
+			"currently_employed": "No",
+			"current_salary": ""
+		},
+		{
+			"jobid": 11200503,
+			"firstname": "Jonathan",
+			"lastname": "Freeman",
+			"email": "",
+			"available_from": "",
+			"state": "",
+			"desired_salary": "120000",
+			"currently_employed": "Yes",
+			"current_salary": "105000"
+		}
+	]
+}
