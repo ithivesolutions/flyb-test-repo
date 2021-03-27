@@ -1,6 +1,7 @@
-#Flyb-test-web-app
 
-- [Flyb-test-app](#flyb-test-web-app)
+#Flyb-test-web-app
+---
+
   - [Introduction](#introduction)
     - [Development mode](#development-mode)
     - [Production mode](#production-mode)
