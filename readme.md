@@ -1,6 +1,5 @@
 
 # Flyb-test-web-app
----
 
   - [Introduction](#introduction)
     - [Development mode](#development-mode)
