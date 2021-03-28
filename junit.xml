@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="13.048">
+  <testsuite name="test\components\candidates\CandidateDtls.test.js" errors="0" failures="0" skipped="0" timestamp="2021-03-28T09:45:09" time="7.344" tests="1">
+    <testcase classname="React Candidate Details unit tests - renders Candidate Details component" name="React Candidate Details unit tests - renders Candidate Details component" time="0.142">
+    </testcase>
+  </testsuite>
+  <testsuite name="test\App.test.js" errors="0" failures="0" skipped="0" timestamp="2021-03-28T09:45:09" time="8.11" tests="3">
+    <testcase classname="React app unit tests - renders App without crashing" name="React app unit tests - renders App without crashing" time="0.086">
+    </testcase>
+    <testcase classname="React app unit tests - renders Header component" name="React app unit tests - renders Header component" time="0.014">
+    </testcase>
+    <testcase classname="React app unit tests - renders Candidate component" name="React app unit tests - renders Candidate component" time="0.018">
+    </testcase>
+  </testsuite>
+</testsuites>
